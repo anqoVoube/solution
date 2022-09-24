@@ -5,7 +5,7 @@ from base.converters.base import Converter
 
 class PythonDataToHTMLConverter(Converter):
     """
-    Singleton Converter from python dictionary to html tags
+    Converter from python dictionary to html tags
 
     Attrs:
         `data`: python dictionary data
